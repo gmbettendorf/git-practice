@@ -23,3 +23,10 @@ Week 2
 - assignment: read all of the Internet
 - deliverable: catalogue all of the websites Google fetches for a given word, rewrite this catalogue by hand, and burn it. This is called conceptual art.
 
+Week 3
+-This is a change and it should be reflected in the log.
+
+ANOTHER CHANGE
+
+STILL ANOTHER CHANGE
+
